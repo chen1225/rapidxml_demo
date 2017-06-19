@@ -36,4 +36,5 @@
                 Version="1.0.0" />
         </NuGet>
     </RetargetData>
+    <TestNode>this is a test for rapidxml!</TestNode>
 </Framework>
